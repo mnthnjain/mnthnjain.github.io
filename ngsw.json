@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.a3f010a105a099a9ed8a.js",
+        "/main.3126d031ddd9244b417a.js",
         "/polyfills.b4daf421c94934f530d4.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/styles.6943f4ffed5198eb2bc4.css"
@@ -106,8 +106,8 @@
     "/assets/pic1.jpg": "aaa57514cf63cbcb3ed53e25071fc4da1128acf4",
     "/assets/slider.json": "54a89d84124ebe97406049c3175f681511e4719a",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "a850de3ee2c5351669b685f06ee080c28169d9a0",
-    "/main.a3f010a105a099a9ed8a.js": "daf526a2a2b741fe07dcf8bd0fae7d0fb8f0ed58",
+    "/index.html": "4135754a1dbf6017976cbdc3c6c1365020a315dc",
+    "/main.3126d031ddd9244b417a.js": "3db58268a4437e7a40482efc9b608499d0a87101",
     "/polyfills.b4daf421c94934f530d4.js": "193f6d7b77c2bce633da2f543082303b4f32d7ed",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/styles.6943f4ffed5198eb2bc4.css": "336abd3b43d2131cbb66ab80d9ec42ce63107310"
