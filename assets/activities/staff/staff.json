@@ -1,0 +1,39 @@
+{
+  "faculties": [
+    {
+      "name": "albert einsitein",
+      "qualifications": ["bba", "mba"],
+      "image": "einstein",
+      "subject": "general relativity",
+      "designation": "principle",
+      "level": "secondary"
+    },
+    {
+      "name": "hawking",
+      "qualifications": ["bca"],
+      "image": "hawkings",
+
+      "subject": "Black holes",
+      "designation": "principle",
+      "level": "secondary"
+    },
+    {
+      "name": "warner heisenberg",
+      "qualifications": ["bcom"],
+      "image": "heisenberg",
+
+      "subject": "quantum models",
+      "designation": "principle",
+      "level": "secondary"
+    },
+    {
+      "name": "schodinger",
+      "qualifications": ["karate"],
+      "image": "schodinger",
+
+      "subject": "quantum mechanics",
+      "designation": "principle",
+      "level": "secondary"
+    }
+  ]
+}

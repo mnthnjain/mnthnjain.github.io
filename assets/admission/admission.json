@@ -1,0 +1,107 @@
+[
+  {
+    "no": "nursery",
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": "ukg",
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": "Lkg",
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 1,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 2,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 3,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 4,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 5,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 6,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 7,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 8,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 9,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 10,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 11,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  },
+  {
+    "no": 12,
+    "admission": 2000,
+    "caution": 1000,
+    "bus": 3000,
+    "tution": 5000
+  }
+]
