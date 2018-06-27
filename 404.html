@@ -16,7 +16,8 @@ permalink: /404.html
   <link href="//fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Teko" rel="stylesheet">
 
-
+  <link href="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.css" rel="stylesheet">
+  <script src="https://cdn.rawgit.com/michalsnik/aos/2.1.1/dist/aos.js"></script>
   <!-- Optional theme -->
 
   <!-- Latest compiled and minified JavaScript -->
@@ -49,6 +50,13 @@ permalink: /404.html
   <div>
     <app-root></app-root>
   </div>
+  <script>  AOS.init({
+      offset: 200,
+      duration: 300,
+      easing: 'ease-in-sine',
+      delay: 100,
+    });;</script>
+
 <script type="text/javascript" src="runtime.js"></script><script type="text/javascript" src="polyfills.js"></script><script type="text/javascript" src="main.js"></script></body>
 
 </html>
